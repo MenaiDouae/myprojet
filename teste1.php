@@ -13,7 +13,7 @@ Die("Errors ! ".mysqli_connect_error());
 <link rel="stylesheet" href="style2.css">
 </head>
 <body>
-<div class="container">
+<div class="conteneur">
 <table border=0 width=100%>
 <td id="logo" class="link"><img src="logo.gif" width=220></td>
 <td width=180></td>
